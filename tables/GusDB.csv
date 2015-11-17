@@ -1,4 +1,4 @@
-ID,amountAwarded,amountAwarded_cur
+ID,amountAwarded*,amountAwarded_cur
 UNC361,490000,USD
 UNC019,490000,USD
 UNC001,610000,USD
@@ -488,3 +488,5 @@ UNC002,,
 UNC203,,
 UNC467,,
 UNC460,,
+,,
+* these are preliminary data based on ongoing research,,

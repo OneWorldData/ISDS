@@ -2,11 +2,12 @@
 
 This easy python script merges the various tables we have used to create our own table of all Investor State Dispute Settlements from 1987 to 2014. With thanks to :
 
-- Kimberly Kleman and The American Lawyer magazine's Arbitration Scorecard
+- The American Lawyer magazine's Arbitration Scorecard
 - Gus van Hartenn at IIAPP
 - Enric Garcia Torrents
-- Elisabeth Tuerk from UNCTAD
-- Luke Peterson from IAReporter
+- UNCTAD
+- IAReporter
+- citizen.org
 - Frank Mulder for lots of manual work
 
 
