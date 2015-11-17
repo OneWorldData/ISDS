@@ -1,12 +1,12 @@
 # ISDS cases 1987 - 2014
 
-This easy python script merges the various tables we have used to create our own table of all Investor State Dispute Settlements from 1987 to 2012. With thanks to :
+This easy python script merges the various tables we have used to create our own table of all Investor State Dispute Settlements from 1987 to 2014. With thanks to :
 
 - Kimberly Kleman and The American Lawyer magazine's Arbitration Scorecard
 - Gus van Hartenn at IIAPP
 - Enric Garcia Torrents
 - Elisabeth Tuerk from UNCTAD
-- Luke Peterson from IARepoter
+- Luke Peterson from IAReporter
 - Frank Mulder for lots of manual work
 
 
